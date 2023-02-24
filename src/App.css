@@ -1,0 +1,40 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Avenir, sans-serif;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.App {
+  width: 300px;
+  margin: 30px auto;
+  padding-bottom: 50px;
+  background: #24272f;
+  color: #fff;
+  border-radius: 5px;
+}
+
+.img {
+  border-radius: 5px;
+  width: 300px;
+  
+}
+
+.banner {
+  font-family: 'Monoton', cursive;
+  font-weight: 400;
+  margin-bottom: 0;
+}
+
+.banner__occupation {
+  color: orangered;
+  margin-top: 0;
+  font-size: 1rem;
+}
