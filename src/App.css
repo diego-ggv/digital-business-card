@@ -63,7 +63,10 @@ footer {
 }
 
 .website-link {
+  display: inline-block;
   font-weight: lighter;
+  font-size: 14px;
+  margin: 10px auto;
 }
 
 .website-link:hover {
